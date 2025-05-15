@@ -48,7 +48,7 @@ $$y = ax^b$$
 ---
 
 ## 🗂️ 檔案結構
-
+```bash
 Gaming-Industry/
 └── Predict DAU/
     ├── 【專案】預估日活用戶數：支撐預算規劃與新用戶成長策略.ipynb
